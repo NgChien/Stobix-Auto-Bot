@@ -91,4 +91,3 @@ Dự án này được cấp phép theo MIT License.
 
 ---
 
-**GitHub:** [himanshusaroha648/Stobix-Autoreff](https://github.com/himanshusaroha648/Stobix-Autoreff)
